@@ -27,7 +27,7 @@ class userfields extends Plugin
 	 **/
 	public function help()
 	{
-		$help = _t( 'These fields are added to the User page. To use the values you have set, <code>echo $post->author->info->userfield_{your field}</code>' );
+		$help = _t( 'These fields are added to the User page. To use the values you have set, <code>echo $post->author->info->{userfield_your field}</code>' );
 		return $help;
 	}
 
