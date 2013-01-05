@@ -3,7 +3,7 @@
 	<name>User Fields</name>
 	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
 	<author url="http://habariproject.org/">Habari Community</author>
-	<version>0.02</version>
+	<version>0.1</version>
 	<url>http://habariproject.org/</url>
 	<description><![CDATA[Allows site administrators to create new user data fields.]]></description>
 	<copyright>2009</copyright>
