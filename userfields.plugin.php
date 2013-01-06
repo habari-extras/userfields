@@ -23,15 +23,6 @@ class userfields extends Plugin
 	}
 
 	/**
-	 * Add help text to plugin configuration page
-	 **/
-	public function help()
-	{
-		$help = _t( 'These fields are added to the User page. To use the values you have set, <code>echo $post->author->info->{userfield_your field}</code>' );
-		return $help;
-	}
-
-	/**
 	* Respond to the user selecting an action on the plugin page
 	*
 	* @param string $plugin_id The string id of the acted-upon plugin
