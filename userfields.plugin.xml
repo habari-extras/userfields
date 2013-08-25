@@ -12,5 +12,6 @@
 			<![CDATA[These fields are added to the User page. To use the values you have set, <code>echo $post->author->info->{userfield_your field}</code>]]>
 		</value>
 	</help>
+	<guid>FC1EB250-14AA-4873-A2CD-9A4175A1D2B4</guid>
 </pluggable>
  
